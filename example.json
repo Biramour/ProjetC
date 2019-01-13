@@ -1,0 +1,34 @@
+[ { "id" : "bk101",
+    "author" : {
+      "lastname" : "Gambardelle",
+      "firstname" : "Matthew"
+    },
+    "title": "XML Developer's Guide",
+    "genre" : "Computer",
+    "price" : 44.95,
+    "publish_date" : "2000-10-01",
+    "description" : "An in-depth look at creating applications with XML.",
+    "available" : true
+  },
+  { "id" : "bk102",
+    "author" : {
+      "lastname" : "Ralls",
+      "firstname" : "Kim"
+    },
+    "title": "Midnight Rain",
+    "genre" : "Fantasy",
+    "price" : 5.95,
+    "publish_date" : "2000-12-16",
+    "description" : "A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.",
+    "available" : true
+  },
+  { "id" : "bk103",
+    "author" : null,
+    "title": "The Book With No Name",
+    "genre" : "Thriller",
+    "price" : 21.00,
+    "publish_date" : "2006-07-08",
+    "description" : "Santa Mondega is no ordinary town, and its inhabitants are even less ordinary: gangsters, martial-arts monks, low-lifes, bounty hunters, vampires and Elvis-impersonating hitmen abound. And then, in the shadowed streets, there lurks the serial killer known only as the Bourbon Kid.",
+    "available" : false
+  }
+]
