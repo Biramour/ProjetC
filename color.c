@@ -4,6 +4,7 @@
 #include "color.h"
 
 
+
 color_t color (double r, double g, double b){
 	if(r<0 || r>1 || g<0 || g>1 || b<0 || b>1  ){
 		exit(EXIT_FAILURE);
